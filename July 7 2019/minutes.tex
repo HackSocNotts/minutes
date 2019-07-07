@@ -1,0 +1,88 @@
+\documentclass[11pt]{meetingmins}
+\setcommittee{HackSoc - Codename Undefined}
+\newcommand{\action}[2]{\textbf{Action (#1):} #2}
+
+\setdate{July 7, 2019}
+
+\setpresent{
+  \chair{DC},
+  AO,
+  PF,
+  AD,
+  SK
+}
+
+\absent{}
+
+\alsopresent{LP}
+
+\begin{document}
+\maketitle
+
+\section{Features}
+\begin{items}
+  \item Inventory/Hardware Lending
+    \subitem Web \& Mobile
+    \subitem Item Make/Model should be IDs referencing grouped makes and models
+    \subitem Native Code layer to interact with printer drivers would be Nice
+    \subitem Lending Policy - Consulted with SU
+      \subsubitem Can we collect deposit
+      \subsubitem Can we fine through Uon Finance
+    \subitem Approvers: Anyone on Committee
+    \subitem User Tracking
+      \subsubitem Full Uni Profile (Mobile, Student ID, uni username, Full Name)
+  \item Event Tracking
+    \subitem Workshops
+      \subsubitem Proposal Form
+      \subsubitem Proposal Approved/Event Added
+      \subsubitem Scheduled
+      \subsubitem Automated Confirmation Email sent: 7 days in advance
+      \subsubitem Attendee Feedback
+      \subsubitem Post Event Report/AAR
+    \subitem Speakers
+      \subsubitem Proposal Form
+      \subsubitem Proposal Approved/Event Added
+      \subsubitem Scheduled
+      \subsubitem Automated Confirmation Email sent: 7 days in advance
+      \subsubitem Post Event Report/AAR
+      \subsubitem Attendee Feedback
+    \subitem Tracks Steps to Successful Event
+    \subitem SU Event Form Submission Tracking
+      \subsubitem Async to internal state
+    \subitem Event States
+      \subsubitem Submitted/Pending Approval
+      \subsubitem Pending Committee Approval
+      \subsubitem Rejected/Denied
+      \subsubitem Approved/Pending Date
+      \subsubitem SU Pending
+      \subsubitem Approved by SU
+      \subsubitem Rejected by SU
+      \subsubitem Expired (Miss SU Deadline) - If not SU Pending by T-21 Days
+      \subsubitem Scheduled
+      \subsubitem Differed/Not Schedule-able
+      \subsubitem Speaker Confirmed
+      \subsubitem Speaker Cancelled
+      \subsubitem Triaged/Completed (Post Mortems/Reports)
+    \subitem Cyber Security (Nice to have)
+      \subsubitem Proposal Pending
+      \subsubitem Proposal Submitted/School Pending
+      \subsubitem School Approved
+      \subsubitem School Rejected
+      \subsubitem Convert to Workshop
+    \subitem Event Lead (Must be on Committee)
+    \subitem Event can have `CCs'
+  \item Google Form Integration
+  \item SU Accounts Payable Tracking
+  \item Schedule/Calendar Integration
+  \item Agenda Forming/Tracking
+\end{items}
+
+\section{Tech}
+\begin{items}
+  \item Firebase with React
+  \item More will be added here eventually
+\end{items}
+
+\vspace{1em}
+
+\end{document}
