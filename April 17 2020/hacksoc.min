@@ -19,5 +19,4 @@
   Abinaya~Maruthalingam
 }
 
-
 \newcommand{\action}[2]{\textbf{Action (#1):} #2}
