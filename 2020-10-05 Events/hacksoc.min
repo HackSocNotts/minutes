@@ -1,0 +1,14 @@
+
+\setcommittee{HackSoc}
+
+\setmembers{
+  \chair{Aaron~Osher},
+  Primoz~Fabiani,
+  Ammar~Khazal
+  Daniel~Cordell,
+  John~Mercer,
+  Aakash~Dadhich,
+  Zain~Ali
+}
+
+\newcommand{\action}[2]{\textbf{Action (#1):} #2}
