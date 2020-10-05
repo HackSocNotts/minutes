@@ -2,13 +2,18 @@
 \setcommittee{HackSoc}
 
 \setmembers{
-  \chair{Aaron~Osher},
-  Primoz~Fabiani,
-  Ammar~Khazal
+  \chair{Alexi~Dewfall},
+  Aaron~Osher,
+  Reece~Roberts,
+  Neve~Marpole,
+  Natasha~Bayliss,
+  M\'eabh~Magee,
+  James~Frost,
+  Samuel~King,
+  Molly~Shalliker,
+  Peter~Taylor,
   Daniel~Cordell,
-  John~Mercer,
-  Aakash~Dadhich,
-  Zain~Ali
+  Reece~Harvey,
+  Ryan~Hardwick,
+  Abinaya~Maruthalingam
 }
-
-\newcommand{\action}[2]{\textbf{Action (#1):} #2}
