@@ -60,8 +60,21 @@ Timelines:
     - BCS
     - Jane Street
     - Arrow
-    
-    ![Untitled](Untitled.png)
+    - From Nathan:
+        - Liberty Global
+        - TPP
+        - Alloyed
+        - Codesignal
+        - HMGCC
+        - Capital One
+        - National Grid
+        - Calyx
+        - Atkins
+        - Leonardo
+        - RPS
+        - DSTL
+        - Frazer Nash
+        - Bank of America - Lateral Hiring
     
 
 Sponsorship documents:
