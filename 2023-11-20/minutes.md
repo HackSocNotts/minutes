@@ -61,7 +61,7 @@ Timelines:
     - Jane Street
     - Arrow
     
-    ![Untitled](HS%2052762570d22246bea653fca94bc9f54a/Untitled.png)
+    ![Untitled](Untitled.png)
     
 
 Sponsorship documents:
