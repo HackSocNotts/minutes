@@ -1,0 +1,107 @@
+#set text(
+  font: "New Computer Modern",
+  size: 26pt,
+  weight: "bold"
+)
+
+#set align(center)
+
+= HackSoc - Semester 2 Events Planning
+
+#set text(
+  font: "New Computer Modern",
+  size: 20pt,
+  //weight: "bold"
+)
+\
+08/08/2025
+
+#set text(
+  font: "New Computer Modern",
+  size: 13pt,
+  weight: "regular",
+)
+
+\
+
+=== Points Of Discussion
+- Committee Hoodies
+- Semester 2 Events Schedule
+- Unscheduled Events
+- Trips
+- HackNotts Organiser Applications
+#set align(center)
+
+=== Attendance
+- Joel Sollis
+- Lana Valentine
+- Liz Hickmott
+- Oli Sharp
+- Sammy Sahnine
+- Tom Piercy
+- Will Wright
+
+\
+=== Meeting Minutes
+#set align(left)
+\
+*Committee Hoodies*
+  - People want committee hoodies
+  - Perhaps a new logo which is actually a design and not just the name - Sammy to investigate
+  - Will to send an email to the company after a decision is made on this, with email address from Lana
+\
+*Semester 2 Events Schedule*
+  - We will continue running events after Easter as new committee will not have handed over yet.
+
+  - 29th Jan - Hacker Round Robin
+    - Dearing A34
+    - Work on a project for 10 mins then swap
+  - 5th Feb - Goose Games
+    - Pin the features on the Oli Profile Picture
+    - Werewolf + Musical Chairs
+  - 12th Feb - Solve Uno
+  - 19th Feb - ???
+  - 26th Feb - Café Crawl
+  - 5th March - Kahoot Night (HackSoc Trivia)
+  - 12th March - ???
+  - AGM 19th March
+    - Manifestos to go on GitHub for reference for new runners
+    - HackSoc proprietary voting system to be used
+  - 26th March - MCS3 lecture
+  EASTER
+  - 30th April - Computerphile
+  - 7th May - Board Games Night
+
+  - Joel on Tues 10th + 17th of Feb and March
+    - C++
+    - Intro to Game Development
+    - Intro to Unity
+\
+*Unscheduled Events*
+  - Intro to Cybersecurity Talk
+    - Contact Xavier again?
+  - Movie Night
+    - Collaboration with Dark Celluloid?
+  -Programming Café
+    - Over Easter
+\
+*Trips*
+- Ada Lovelace Grave
+  - Possible collaboration with Women in Computer Science - Oli to communicate and set a date accordingly
+  - Very specific opening hours so hard to schedule/know if we can do it properly
+  - Risk Assessment/Trip form needed
+
+- Hackspace 25th March
+  - Risk Assessment needed
+  - Contact Hackspace to see about an official trip/collaboration
+
+- HackSoc Touches Grass (Nature Walk)
+  - 21/22nd Feb (TBD considering weather)
+  - Risk Assessment needed
+\
+*HackNotts Organiser Applications*
+- Open organiser applications after exams, pre-AGM
+
+
+
+
