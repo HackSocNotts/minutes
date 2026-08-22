@@ -6,28 +6,37 @@
 #set align(center)
 
 = HackSoc - Freshers and Autumn Term Event Planning
-
+\
 21/08/2026 - 6–6:40pm
+
 
 == Points Of Discussion
 
-- Welcome Week Events
-- First Semester Events
+#align(center)[
+  • Welcome Week Events \
+  • First Semester Events
+]
+
+
 
 == Attendance
 
-- Elizabeth Hickmott
-- Sammy Sahnine
-- Joel Solís Avendaño
-- Sam 'Segfault' Clarke
-- Isaac Page
-- Charlie Giddens
-- Sami Sued
-- Aakriti Agarwal
+#align(center)[
+  • Elizabeth Hickmott \
+  • Sammy Sahnine \
+  • Joel Solís Avendaño \
+  • Sam 'Segfault' Clarke \
+  • Isaac Page \
+  • Charlie Giddens \
+  • Sami Sued \
+  • Aakriti Agarwal
+]
+
+
 
 == Meeting Minutes
-
 #set align(left)
+\
 
 === Event Planning
 
@@ -40,20 +49,20 @@
 - HackSoc pub crawl (Thursday/Friday in Welcome Week).
 - Once a month, have a more social event.
 
-=== Semester 1 Events Schedule (Plans)
+=== Semester 1 Events Schedule (Plan)
 
-- 21–22 September – Welcome Fair
-- 24 September – [TBC]
-- 1 October – Intro to HackSoc, HackNotts, and Hackathons
-- 8 October – Web Dev Workshop (Sami)
+- 21–22 September – Welcome Fair and Programming Cafe I - 1st Year Timetable
+- 24- 25 September – Potential Pub Crawl 
+- 01 October – Intro to HackSoc, HackNotts, and Hackathons
+- 08 October – Web Dev Workshop (Sami)
 - 15 October – Halloween Scratchathon
 - 24–25 October – HackNotts
-- 29 October – [Lecturer/Guest Speaker]
-- 5 November – [Workshop – Sami]
+- 29 October – [Blank - Lecturer/Guest Speaker]
+- 05 November – [Workshop – Sami]
 - 12 November – Lecture Slide Karaoke
-- 19 November – Art Week – p5.js, turtle pictionary
+- 19 November – Art Week – p5.js, Turtle Pictionary
 - 26 November – Lightning Talks (@ Rose and Crown)
-- 3 December – Advent of Code Workshop – Joel?
+- 03 December – Advent of Code Workshop – Joel?
 - 10 December – Christmas Party
 
 === Semester 2 Event Ideas
