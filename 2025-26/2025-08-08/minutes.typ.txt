@@ -1,0 +1,123 @@
+#set text(
+  font: "New Computer Modern",
+  size: 26pt,
+  weight: "bold"
+)
+
+#set align(center)
+
+= HackSoc - Freshers and Autumn Term Event Planning
+
+#set text(
+  font: "New Computer Modern",
+  size: 20pt,
+  //weight: "bold"
+)
+\
+08/08/2025
+
+#set text(
+  font: "New Computer Modern",
+  size: 13pt,
+  weight: "regular",
+)
+
+\
+
+=== Points Of Discussion
+- Photos for Website
+- Welcome Week Events
+- Autumn Term Events
+#set align(center)
+
+=== Attendance
+- Alex Beeley
+- Joel Sollis
+- Lana Valentine
+- Liz Hickmott
+- Oli Sharp
+- Sammy Sahnine
+- Will Rostance
+- Will Wright
+
+\
+=== Meeting Minutes
+#set align(left)
+\
+*Rules Document*
+- Oli suggested we add a section on committee discretion being final
+- The document will stay open until tomorrow for any suggestions, which should be added via Google Docs edit
+\
+*Photos for Website*
+- 2 photos of each committe member are to be submitted to Lana
+- The first photo should show the committee member aged 0-10
+- The second photo should show the committee member as they are now
+\
+*Old Committee*
+- Second committee discord role was removed and replaced with a handover role
+- Will Rostance needs Manasi to explain how to be the treasurer
+- Will Wright need access to GitHub for meeting minutes
+- Sammy needs access to the Instagram password for marketing
+\
+
+*Event Planning*
+- Events moved from Tuesday to Thursday
+  - This gives more time for planning events and attendance from Sammy for marketing purposes
+  - Everyone agreed that this change was positive and will be implemented going forward
+- Event Ideas
+  - Hackspace Trip
+    - Oli will organise for some time in April
+    - sometime in april
+  - Programming Competition
+    - Shelved for Semester 2 as to avoid conflicts with the school programming competition
+  - Intro to C++
+  - Alex's Physics Programming Workshop
+  - Redstone Hackathon
+  - Hacker Round Robin
+    - Prompt for a project is given, and each person has 10 mins to work before rotating to another laptop
+    - Prompts should be simple enough that everyone can participate
+    - Wildcard prompt - make anything!
+  - Oli's Mini-Hackathon
+    - Shelved for after Christmas since we have no money and are busy
+  - Scratchathon
+    - Should be increased to 2 hours
+  - Children's Games Night
+
+*Semester 1 Events Schedule*
+  - 2nd Oct - Intro to HackSoc lecture
+  - 9th Oct - Intro to Hackathons workshop
+    - Run by Oli, covering git usage for Hackathons and general skills
+  - 16th Oct - Hack your Career
+    - Previous interns and graduates come to talk about applications and jobs
+    - Scheduled for peak application season
+  - 23rd Oct - Talk from guy who really wanted to and/or Miscellaneous Workshop 
+  - 30th Oct - Gameshow (for Halloween)
+  - 6th Nov - Miscellaneous talk
+  - 13th Nov - Lecture Slide karaoke
+  - 20th Nov - Personal Project Showcase
+  - 27th Nov - Lightning talks
+  - 4th Dec - Advent of Code Workshop
+    - Do day 1 as a group in Python
+    - Split up and do the other problems individually/in groups
+  - 11th Dec - Christmas Film Night
+    - Chill
+    - Can be repeated in January for exams
+  
+
+\
+*Welcome Fair*
+- Sammy and Will Wright will run the stall on Monday
+- Sammy and Lana will run the stall on Tuesday
+- These are subject to change if anyone speaks up and wants to take over
+- Freebies are needed:
+  - Stickers
+    - New stickers were acquired from Sheffield
+    - They should be in the inventory (so with Lana)
+  - Flyers
+    - Sammy to design
+    - Look online for flyer printing
+  - Condoms
+    - Lana will ask Laura Pope
+
+
+
