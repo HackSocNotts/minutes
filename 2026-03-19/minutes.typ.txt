@@ -1,0 +1,113 @@
+#set text(
+  font: "New Computer Modern",
+  size: 26pt,
+  weight: "bold"
+)
+
+#set align(center)
+
+= HackSoc - 2026 AGM
+
+#set text(
+  font: "New Computer Modern",
+  size: 20pt,
+  //weight: "bold"
+)
+\
+19/03/2026
+
+#set text(
+  font: "New Computer Modern",
+  size: 13pt,
+  weight: "regular",
+)
+
+\
+
+=== Points Of Discussion
+- Membership Cost
+- Consitution Amendments
+- Election
+#set align(center)
+
+=== Attendance
+- All current committee members
+- 22 members overall attending
+
+\
+=== Meeting Minutes
+#set align(left)
+\
+*Membership Cost*
+- A vote was held to decide whether to keep the cost of membership at £0 (i.e. free), and it unanimously passed with 22 members voting yes and 0 voting no.
+\
+*Consitutional Amendments*
+- An amendment to fix duplicate numbering of roles in the constitution was put forward.
+  - 22 in favour.
+  - 0 against.
+  - The amendment passed unanimously.
+- An amendment to change the wording of the 'calling of the meeting' in the constitution to 'when members are notified' was put forward.
+  - 22 in favour.
+  - 0 against.
+  - The amendment passed unanimously.
+- An amendment to change the responsibilities of the General Secretary to include reminding members to renew their memberships was put forward.
+  - 22 in favour.
+  - 0 against.
+  - The amendment passed unanimously.
+\
+\
+*Election*
+- The nominees for President were Sammy Sahnine and RON.
+  - 21 votes for Sammy.
+  - 1 vote for RON.
+  - Sammy Sahnine was elected as the next President.
+
+- The nominees for General Secretary were Elizabth Hickmott and RON.
+  - 22 votes for Elizabeth.
+  - 0 votes for RON.
+  - Elizabeth Hickmott was elected as the next General Secretary.
+
+- The nominees for Treasurer were Sam Towler, Samuel Clarke and RON.
+  - 17 votes for Samuel Clarke.
+  - 5 votes for Sam Towler.
+  - 0 votes for RON.
+  - Samuel Clarke was elected as the next Treasurer.
+
+- The nominees for Welfare Secretary were Isaac Page, Chris Lloyd and RON.
+  - 16 votes for Isaac Page.
+  - 6 votes for Chris Lloyd.
+  - 0 votes for RON.
+  - Isaac Page was elected as the next Welfare Secretary.
+
+- The nominees for Development Secretary were Charlie Giddens, Harry Hyman and RON.
+  - 12 votes for Charlie Giddens.
+  - 10 votes for Harry Hyman.
+  - 0 votes for RON.
+  - Charlie Giddens was elected as the next Development Secretary.
+
+- The nominees for Workshop Secretary were Sami Sued and RON.
+  - 22 votes for Sami.
+  - 0 votes for RON.
+  - Sami Sued was elected as the next Workshop Secretary.
+
+- The nominees for Marketing Secretary were Joel Solís Avendaño and RON.
+  - 21 votes for Joel.
+  - 1 vote for RON.
+  - Joel Solís Avendaño was elected as the next Marketing Secretary.
+
+- The nominees for Trips and Hackathons Secretary were Tadisa Chiwira and RON.
+  - 22 votes for Tadisa.
+  - 0 votes for RON.
+  - Tadisa Chiwira was elected as the next Trips & Hackathons Secretary.
+
+- The nominees for Speaker Acquisition Secretary were Aakriti Agarwal and RON.
+  - 22 votes for Aakriti.
+  - 0 votes for RON.
+  - Aakriti Agarwal was elected as the next Speaker Acquisition Secretary.
+
+  
+
+
+
+
+
